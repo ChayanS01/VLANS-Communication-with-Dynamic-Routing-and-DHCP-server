@@ -1,3 +1,17 @@
+
+
+
+<img width="1347" height="423" alt="vlans" src="https://github.com/user-attachments/assets/d1469fad-3144-4e6b-b894-2d8959fcad37" />
+
+
+
+
+
+
+
+
+
+
 Dynamically assining IP's to machines using DHCP server
 
 
